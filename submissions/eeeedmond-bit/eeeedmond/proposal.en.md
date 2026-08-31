@@ -39,7 +39,15 @@ Every RE:STACK has three parts. The platform base supplies structure, energy, ne
 
 The identity uses the same system DNA. The Chinese title and “JZ RE:STACK” both refer to interface, layering and renewal. A paired rail line and open-interface bracket form the graphic direction; warm-gold interface lighting identifies an accessible node; dark metal, clear glass and timber touchpoints establish a consistent material language. Wayfinding avoids copying corporate marks and instead states each node's scale, capability and opening status, so professionals and residents can understand what it offers, who is responsible and whether it is operating.
 
+![Brand identity and spatial applications — concept renderings](assets/figures/restack-brand-system.en.jpg)
+
 ![RE:STACK system, four scales and urban interfaces](assets/figures/land-use-structure.en.png)
+
+![RE:STACK composition and open interfaces — concept diagram, not a construction drawing](assets/figures/restack-open-interface.en.jpg)
+
+![Four scales and three site types — concept renderings](assets/figures/restack-four-scales.en.jpg)
+
+![RE:STACK plug-in assembly and trackside interface — concept exploded diagram](assets/figures/restack-plugin-assembly.en.jpg)
 
 ## Strategic Industry and Future-City Study
 
@@ -59,6 +67,10 @@ The spatial structure follows one consistent rule: **spine continuity, core acti
 
 The industry logic consists of one cross-regional open innovation chain, three site-strengthened loops and one network connecting on-site and off-site resources. Its principle is: **not full-chain self-sufficiency, but full-chain accessibility**. RE:STACK organises the loop as needs aggregation, collaborative development, scenario validation and application feedback. Capital, IP, professional services, manufacturing and off-site engineering validation are found and called through open interfaces.
 
+![RE:STACK collaboration mechanism](assets/figures/restack-collaboration-mechanism.en.jpg)
+
+![Three-area collaboration and external resources — mechanism diagram, not evidence of existing partnerships](assets/figures/restack-three-area-network.en.jpg)
+
 The Zhongguancun Technology Service Wing supplies capital, IP and professional services. The Xiaoyuehe Scenario Empowerment Wing links urban applications, daily needs and feedback. They form a horizontal support network with the three areas. Zhongguancun concentrates research, firms and services; the RE:STACK spine complements it through heritage public space, accessible nodes, validation, product experience and everyday urban interfaces.
 
 Renewal begins with adaptive reuse. Walking and public frontages are improved along the spine; suitable ground floors, campus lobbies, commercial atria and managed open spaces receive RE:STACK interfaces. The proposal does not create capacity through wholesale demolition. Functional ratios, intensity, utility capacity and parking remain pending because statutory controls and ownership data are absent. The drawings show spatial relationships and renewal priorities, not control-plan amendments or engineering approvals. [data:geometry/land_use.geojson#LU-001]
@@ -74,6 +86,8 @@ Renewal begins with adaptive reuse. Walking and public frontages are improved al
 All three areas use the same review frame: positioning, structure, building interface, walking, public space, AI scenario and risk. Their working boundaries are user-confirmed; directional design remains useful, while precise construction quantities await official data. [data:geometry/key_areas.geojson#KEY-001] [data:geometry/key_areas.geojson#KEY-002] [data:geometry/key_areas.geojson#KEY-003]
 
 ![Planning structures of the three key areas](assets/figures/key-areas.en.png)
+
+![Three public-space connection strategies — conceptual types, not a measured plan or new-road proposal](assets/figures/restack-public-space-connections.en.jpg)
 
 ## AI Innovation Ecosystem, Personas and AI+ Scenarios
 
@@ -148,6 +162,8 @@ Cost and procurement are managed in four packages: standard components, site con
 Priority projects include trackside public-service access, Zhongzhiyuan co-development interfaces, Origin Community project and daily support, Dazhongsi merchant collaboration and product experience, Xiaoyuehe public experience, contribution display, node maintenance and cross-area events. [data:geometry/phasing.geojson#PHASE-001]
 
 The annual rhythm is open challenge, collaborative development, public trial and feedback review. “JZ RE:STACK” extends into quarterly open challenges, co-development sprints, city trials and an annual Open Week. Developer communities maintain tools and lessons; operators maintain space and service; firms, researchers, merchants and residents participate as challenge owners, collaborators and users. Outcomes may become research partnerships, product improvements, procurement conversations, referrals to professional facilities or new research questions, while every investment, procurement or policy decision remains with the real responsible organisation. Bilingual cases, contributor records and reusable scenario cards become long-term brand assets. Plug-ins are reviewed annually and removed when use is insufficient, risk cannot be controlled or the responsible party exits. [data:geometry/phasing.geojson#PHASE-002]
+
+![Long-term activities and everyday operating rhythm — indicative, not a confirmed programme](assets/figures/restack-annual-operations.en.jpg)
 
 ## Metrics, Area Recalculation and Compliance
 

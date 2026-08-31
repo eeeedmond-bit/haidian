@@ -31,6 +31,22 @@
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/metrics-evidence.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/mobility-bluegreen.en.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/mobility-bluegreen.png",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-annual-operations.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-annual-operations.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-brand-system.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-brand-system.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-collaboration-mechanism.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-collaboration-mechanism.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-four-scales.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-four-scales.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-open-interface.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-open-interface.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-plugin-assembly.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-plugin-assembly.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-public-space-connections.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-public-space-connections.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-three-area-network.en.jpg",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-three-area-network.jpg",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/site-overview.en.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/site-overview.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/media/experience-poster.png",
@@ -70,7 +86,7 @@
       "ai_package_stages": {
         "submissions/eeeedmond-bit/eeeedmond": "formal"
       },
-      "total_bytes": 38378996,
+      "total_bytes": 36729379,
       "maintainer_bypass": false
     },
     "stderr": ""

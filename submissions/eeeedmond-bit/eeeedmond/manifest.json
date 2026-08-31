@@ -14,7 +14,7 @@
     "model_family": "gpt",
     "model_detail": "Codex desktop agent"
   },
-  "generated_at": "2026-08-31T04:32:37Z",
+  "generated_at": "2026-08-31T22:44:24Z",
   "files": [
     {
       "path": "manifest.json",
@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "29fd504dc4b73caa7d00709a9d67777ed0934b60a777df214b1d3ccfcc96d3f5"
+      "sha256": "89adb22b5fb1dc13e37d3611c7c432c4b863d3afe8bc2d3094062d662d73be5e"
     },
     {
       "path": "agent.json",
@@ -50,13 +50,13 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "259a9dbb987afc2053c4cbd3b872aeab8e77a8a1b802893db18cd111d14f8672"
+      "sha256": "ae2e5b2133d83d35a4ecd9f66d38f2f53950b44b28738bdd8b60602146cc0b5f"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "09864f631d97b7836bd51e09cf70e2bee1c9cbd8bccadc41f287cc6a8f8ec68e"
+      "sha256": "2d539e33465eb602bafe4faea7e8413828392f03353e47cd00dc1d3640b216fc"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "26566d5627ef4c56e63e82bc72225d3e065e0197edea6d7dc2314f739983a5e3"
+      "sha256": "827a46ce54f38aecaf2f0e54ea74a2ea19f5add9da7b77276a91dfb76af51108"
     },
     {
       "path": "report/narrative.md",
@@ -93,7 +93,7 @@
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "7c8b3bba2875bddde3265d14d6e28e37a5571a389013be1aadd68f0b89e1a339"
+      "sha256": "80f127d3d8ef15492a5d40bdbc16b831cf09c20927056b010d2c3fb63061ab22"
     },
     {
       "path": "drawings/a3-booklet.pdf",
@@ -114,42 +114,42 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "ce8903b1a8d6b8f4f103a9786657ef32f9eb648932f6b452a02b64f9ebaf8568"
+      "sha256": "c39c70b778d85d1a390e166dd34ffd34a98afaca6eb941b0576eea7e76a4fa55"
     },
     {
       "path": "assets/figures/key-areas.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "d0bcb033b0101e455cf45487603f59a9e124390cf201b8db321045037858659a"
+      "sha256": "420a5c0359276d15b8b72d406c78ff72fc2728b8962ff7f373438a08818b0010"
     },
     {
       "path": "assets/figures/land-use-structure.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "71fb489d51b106fa2a2fedcc18e96c9e93b66041f044801178ca1bff2029b4d7"
+      "sha256": "3ec21c8c874e4185a11593fe9f7704e1954e3d20975324c87d98390556cf1a36"
     },
     {
       "path": "assets/figures/metrics-evidence.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "d4a8f27c18555da871aedfdbaacb9676b6c179f3e8c7761e186189abc67f7ff2"
+      "sha256": "96637c3de14daf3c6a0bab44bd3375dd680787dfd844ba47d3213318c08772b3"
     },
     {
       "path": "assets/figures/mobility-bluegreen.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "55d462b87bc29d352182cba430cd824d02c565fd794bc4f491611f824b946679"
+      "sha256": "9011bcc5fdd09b6cfe4355b51e380d1638b52126bbfe06c306aa893eec9de942"
     },
     {
       "path": "assets/figures/site-overview.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "faa5aeed76fdd7c9d1f46bb24bad4e7af2c4452dbd1e51d64b78b20d1672f847"
+      "sha256": "2576dbbfa9f6a3a8393c717d4214b3ffa60abf4b28c5d6d82551d4d4c93937b2"
     },
     {
       "path": "geometry/buildings.geojson",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "f87506484818fe8ebcf5dee71231cb764e685240aa7ad32cb64cda167d95071c"
+      "sha256": "43343e3867a1d70c1bf1889b1c892b06d4be4365f8c02b1c45b4c877f18548fb"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -235,7 +235,7 @@
       "required": true,
       "language": "en",
       "translation_of": "visual/index.html",
-      "sha256": "6f38e98a2c279c78a873f6fcd89baa7a5abf25fd050c8df7374973ad20490d17"
+      "sha256": "9b6715c6bd932b5d0967b3c0c8be27c9604481ce1b32fa2a91ce92ecc01dc4e8"
     },
     {
       "path": "assets/figures/site-overview.en.png",
@@ -243,7 +243,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/site-overview.png",
-      "sha256": "faa5aeed76fdd7c9d1f46bb24bad4e7af2c4452dbd1e51d64b78b20d1672f847"
+      "sha256": "2576dbbfa9f6a3a8393c717d4214b3ffa60abf4b28c5d6d82551d4d4c93937b2"
     },
     {
       "path": "assets/figures/land-use-structure.en.png",
@@ -251,7 +251,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/land-use-structure.png",
-      "sha256": "71fb489d51b106fa2a2fedcc18e96c9e93b66041f044801178ca1bff2029b4d7"
+      "sha256": "3ec21c8c874e4185a11593fe9f7704e1954e3d20975324c87d98390556cf1a36"
     },
     {
       "path": "assets/figures/key-areas.en.png",
@@ -259,7 +259,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/key-areas.png",
-      "sha256": "d0bcb033b0101e455cf45487603f59a9e124390cf201b8db321045037858659a"
+      "sha256": "420a5c0359276d15b8b72d406c78ff72fc2728b8962ff7f373438a08818b0010"
     },
     {
       "path": "assets/figures/mobility-bluegreen.en.png",
@@ -267,7 +267,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/mobility-bluegreen.png",
-      "sha256": "55d462b87bc29d352182cba430cd824d02c565fd794bc4f491611f824b946679"
+      "sha256": "9011bcc5fdd09b6cfe4355b51e380d1638b52126bbfe06c306aa893eec9de942"
     },
     {
       "path": "assets/figures/metrics-evidence.en.png",
@@ -275,7 +275,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/metrics-evidence.png",
-      "sha256": "d4a8f27c18555da871aedfdbaacb9676b6c179f3e8c7761e186189abc67f7ff2"
+      "sha256": "96637c3de14daf3c6a0bab44bd3375dd680787dfd844ba47d3213318c08772b3"
     },
     {
       "path": "assets/media/experience.mp4",
@@ -314,7 +314,191 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "029474b86059486de4951f24a66f3051f8dd5eeb3b408de6b546dbe92b99e333"
+      "sha256": "4ef3a1dca7373e06b46b1b4bb4a00ce59ae8504e8cbd2b99c4d0c39b73152a5d"
+    },
+    {
+      "path": "assets/figures/restack-open-interface.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "新栈构成与开放接口",
+      "title_en": "RE:STACK Composition and Open Interfaces",
+      "description_zh": "平台基座、固定 AI 核心、场景插件及人工接管接口的概念构成图；非施工图。",
+      "description_en": "Concept diagram of the platform base, fixed AI core, scene plug-ins and human-takeover interfaces; not a construction drawing.",
+      "sha256": "eb6bca375a3f9142d86200af082da212ef8c24de0da39f7e4f626df6d122fc03"
+    },
+    {
+      "path": "assets/figures/restack-open-interface.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-open-interface.jpg",
+      "title_zh": "新栈构成与开放接口",
+      "title_en": "RE:STACK Composition and Open Interfaces",
+      "description_zh": "平台基座、固定 AI 核心、场景插件及人工接管接口的概念构成图；非施工图。",
+      "description_en": "Concept diagram of the platform base, fixed AI core, scene plug-ins and human-takeover interfaces; not a construction drawing.",
+      "sha256": "a90250ebc1ffe1d190da963017d1ad427b94efd687468272a9d6a70a22477587"
+    },
+    {
+      "path": "assets/figures/restack-four-scales.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "四尺度与三类场地适配",
+      "title_en": "Four Scales and Three Site Types",
+      "description_zh": "S/M/L/XL 四尺度及众智园、AI 原点社区和大钟寺适配方式的概念效果图。",
+      "description_en": "Concept renderings of S/M/L/XL scales adapted to Zhongzhiyuan, AI Origin Community and Dazhongsi.",
+      "sha256": "e91168b02e63b157794ae9c568f2e2e9446e4f6f515f8cb8f465d8c438aeeb3c"
+    },
+    {
+      "path": "assets/figures/restack-four-scales.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-four-scales.jpg",
+      "title_zh": "四尺度与三类场地适配",
+      "title_en": "Four Scales and Three Site Types",
+      "description_zh": "S/M/L/XL 四尺度及众智园、AI 原点社区和大钟寺适配方式的概念效果图。",
+      "description_en": "Concept renderings of S/M/L/XL scales adapted to Zhongzhiyuan, AI Origin Community and Dazhongsi.",
+      "sha256": "ccfe0a866d0b25dfa6ebec0084720c8e4d8dcfd71a7d63679abed27cac5131c7"
+    },
+    {
+      "path": "assets/figures/restack-plugin-assembly.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "新栈插件装配与轨旁接入",
+      "title_en": "RE:STACK Plug-in Assembly and Trackside Interface",
+      "description_zh": "稳定基座、固定 AI 核心和可替换插件的装配爆炸图；非施工图。",
+      "description_en": "Exploded concept diagram of the stable base, fixed AI core and replaceable plug-ins; not a construction drawing.",
+      "sha256": "c9ab9f1f8d0d56d6bcf4d140da8e7ef5befc316abd5f5b21ca8b04a9a32b812a"
+    },
+    {
+      "path": "assets/figures/restack-plugin-assembly.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-plugin-assembly.jpg",
+      "title_zh": "新栈插件装配与轨旁接入",
+      "title_en": "RE:STACK Plug-in Assembly and Trackside Interface",
+      "description_zh": "稳定基座、固定 AI 核心和可替换插件的装配爆炸图；非施工图。",
+      "description_en": "Exploded concept diagram of the stable base, fixed AI core and replaceable plug-ins; not a construction drawing.",
+      "sha256": "fb77ef8979a3c38c6f42a5f28840ca9b33ee473d45ef35d8dde657c630a76571"
+    },
+    {
+      "path": "assets/figures/restack-collaboration-mechanism.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "新栈协作机制",
+      "title_en": "RE:STACK Collaboration Mechanism",
+      "description_zh": "科研协作、企业成长、产品市场和城市公共服务共同参与的开放创新循环示意。",
+      "description_en": "Open innovation loop linking research collaboration, enterprise growth, product-market feedback and urban public services.",
+      "sha256": "9d52d11ec6d7bed9267a61d04c061a84b9bd7f02c8a566f11cfa1504f9961a69"
+    },
+    {
+      "path": "assets/figures/restack-collaboration-mechanism.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-collaboration-mechanism.jpg",
+      "title_zh": "新栈协作机制",
+      "title_en": "RE:STACK Collaboration Mechanism",
+      "description_zh": "科研协作、企业成长、产品市场和城市公共服务共同参与的开放创新循环示意。",
+      "description_en": "Open innovation loop linking research collaboration, enterprise growth, product-market feedback and urban public services.",
+      "sha256": "488e3cfaaf2cf9f2eafcebb1677b28382ed5f41e57cdf37b57f01e2b2a2a6c47"
+    },
+    {
+      "path": "assets/figures/restack-three-area-network.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "三区协作与场外资源",
+      "title_en": "Three-Area Collaboration and External Resources",
+      "description_zh": "三区与两翼及场外资源的能力可达机制示意；不代表既有合作关系。",
+      "description_en": "Capability-access mechanism across the three areas, two wings and external resources; not evidence of existing partnerships.",
+      "sha256": "7773663a438687cad9bf77037e0285c61c18fe533e9d1ced3d2e35c42fc6858e"
+    },
+    {
+      "path": "assets/figures/restack-three-area-network.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-three-area-network.jpg",
+      "title_zh": "三区协作与场外资源",
+      "title_en": "Three-Area Collaboration and External Resources",
+      "description_zh": "三区与两翼及场外资源的能力可达机制示意；不代表既有合作关系。",
+      "description_en": "Capability-access mechanism across the three areas, two wings and external resources; not evidence of existing partnerships.",
+      "sha256": "5902c9565be367000eeea7c9cedf40a4f6ef9240e534fdc69d7aef1569bd795d"
+    },
+    {
+      "path": "assets/figures/restack-public-space-connections.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "三类公共空间连接策略",
+      "title_en": "Three Public-Space Connection Strategies",
+      "description_zh": "从遗产公共廊道进入园区、街区和商业空间的概念类型；非实测总平面或新增道路。",
+      "description_en": "Conceptual types for connecting the heritage corridor to campuses, neighbourhoods and commercial space; not a measured plan or new-road proposal.",
+      "sha256": "93d5754b145c6bf6d18fda7929bf1190b5b9c75855df76730dc13e7e246901b5"
+    },
+    {
+      "path": "assets/figures/restack-public-space-connections.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-public-space-connections.jpg",
+      "title_zh": "三类公共空间连接策略",
+      "title_en": "Three Public-Space Connection Strategies",
+      "description_zh": "从遗产公共廊道进入园区、街区和商业空间的概念类型；非实测总平面或新增道路。",
+      "description_en": "Conceptual types for connecting the heritage corridor to campuses, neighbourhoods and commercial space; not a measured plan or new-road proposal.",
+      "sha256": "8fb43e24e6914148a0ac6a142ab036f408fe4f322108eab41acae55367a79480"
+    },
+    {
+      "path": "assets/figures/restack-brand-system.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "品牌识别与空间应用",
+      "title_en": "Brand Identity and Spatial Applications",
+      "description_zh": "导视、建筑首层标识、可翻转展示屏和 AI 服务界面的概念应用。",
+      "description_en": "Concept applications for wayfinding, ground-floor identity, reversible displays and AI service interfaces.",
+      "sha256": "d7dc2e3aed20c5d66b6a8b38de2ea2c5f3b58656b54434da4c10eb462af4137d"
+    },
+    {
+      "path": "assets/figures/restack-brand-system.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-brand-system.jpg",
+      "title_zh": "品牌识别与空间应用",
+      "title_en": "Brand Identity and Spatial Applications",
+      "description_zh": "导视、建筑首层标识、可翻转展示屏和 AI 服务界面的概念应用。",
+      "description_en": "Concept applications for wayfinding, ground-floor identity, reversible displays and AI service interfaces.",
+      "sha256": "e6ff80ba33576c83e771a92187829cdb639081bba45932b7f18b7fbc37e4f9a6"
+    },
+    {
+      "path": "assets/figures/restack-annual-operations.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "长期活动与日常运营节律",
+      "title_en": "Long-Term Activities and Everyday Operating Rhythm",
+      "description_zh": "以常态服务为底、四季主题活动穿插的建议性运营节律；非确定活动排期。",
+      "description_en": "Indicative operating rhythm combining routine service with seasonal events; not a confirmed programme.",
+      "sha256": "1555e63ac3db733b8a1da2ef218f5a57f2934b4b9a09d20021bcdb73b5fc1c2e"
+    },
+    {
+      "path": "assets/figures/restack-annual-operations.en.jpg",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-annual-operations.jpg",
+      "title_zh": "长期活动与日常运营节律",
+      "title_en": "Long-Term Activities and Everyday Operating Rhythm",
+      "description_zh": "以常态服务为底、四季主题活动穿插的建议性运营节律；非确定活动排期。",
+      "description_en": "Indicative operating rhythm combining routine service with seasonal events; not a confirmed programme.",
+      "sha256": "36db926696b48f0c9f508e1ba54503c3e48489d03209b6a1179feff91fea0602"
     }
   ],
   "validation_claim": {
