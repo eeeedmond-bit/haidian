@@ -265,6 +265,125 @@
       "estimated_reference": "20,000-50,000 visits/year after network stabilisation",
       "estimate_basis": "Reference estimate based on distributed public nodes and periodic events; not a commitment."
     },
+    "first_round_capex_rmb": {
+      "status": "unknown",
+      "value": null,
+      "unit": "RMB",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Confirm from surveyed quantities and at least three supplier quotations.",
+      "confidence": "low",
+      "assumptions": [
+        "Concept-stage range excluding land acquisition, major structural reinforcement, large utility expansion and specialist heritage restoration."
+      ],
+      "reason": "No bill of quantities, site connection survey or supplier quotation was supplied.",
+      "estimated_reference": "RMB 20-60 million for three parallel validation packages",
+      "estimate_basis": "Reference capacity of one pilot package in each key area using existing buildings and demountable components."
+    },
+    "three_year_network_capex_rmb": {
+      "status": "unknown",
+      "value": null,
+      "unit": "RMB",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Confirm from phased bills of quantities, site surveys and procurement quotations.",
+      "confidence": "low",
+      "assumptions": [
+        "Concept-stage range for 12-18 S/M nodes, 3-5 L platforms and three existing-building XL venues."
+      ],
+      "reason": "Final sites, quantities, owners, utilities and procurement method are not confirmed.",
+      "estimated_reference": "RMB 100-300 million cumulative capital cost",
+      "estimate_basis": "Broad benchmark range for modular equipment, adaptive reuse, professional review and site connection."
+    },
+    "mature_annual_opex_rmb": {
+      "status": "unknown",
+      "value": null,
+      "unit": "RMB/year",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Confirm from staffing, maintenance, insurance, content, utilities and audit contracts.",
+      "confidence": "low",
+      "assumptions": [
+        "Reference estimate after the initial network reaches stable operation."
+      ],
+      "reason": "No operator staffing plan, maintenance contract or utility baseline was supplied.",
+      "estimated_reference": "RMB 15-40 million/year at network maturity; RMB 3-8 million/year for first-round pilots",
+      "estimate_basis": "Concept-stage operating package covering people, maintenance, insurance, content and audit."
+    },
+    "operating_cost_recovery_ratio": {
+      "status": "unknown",
+      "value": null,
+      "unit": "ratio",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Direct enterprise-service, venue, event and brand-collaboration revenue / annual operating cost.",
+      "confidence": "low",
+      "assumptions": [
+        "Public service and heritage-cultural benefits are not forced into direct commercial revenue."
+      ],
+      "reason": "No operator contract, tariff, occupancy or revenue baseline was supplied.",
+      "estimated_reference": "20%-40% during pilots; 40%-70% after stable operation",
+      "estimate_basis": "Prudent concept-stage recovery range with mixed public-service and earned-income funding."
+    },
+    "annual_demand_matches": {
+      "status": "unknown",
+      "value": null,
+      "unit": "count/year",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Count of registered needs that reach a named collaboration or professional referral.",
+      "confidence": "low",
+      "assumptions": [
+        "Calibrated after a real 90-day operating baseline."
+      ],
+      "reason": "No existing open-service directory or referral baseline was supplied.",
+      "estimated_reference": "30-80 matched needs/year after stabilisation",
+      "estimate_basis": "Reference throughput for three district pilots and a shared directory."
+    },
+    "annual_lightweight_validations": {
+      "status": "unknown",
+      "value": null,
+      "unit": "count/year",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Count of registered lightweight validations or product improvements with documented feedback.",
+      "confidence": "low",
+      "assumptions": [
+        "Excludes statutory certification, manufacturing-line testing and specialist laboratory experiments."
+      ],
+      "reason": "No existing programme or operator baseline was supplied.",
+      "estimated_reference": "10-30 validations or product improvements/year after stabilisation",
+      "estimate_basis": "Reference throughput for L platforms and periodic public or market trials."
+    },
+    "annual_participating_firms_merchants": {
+      "status": "unknown",
+      "value": null,
+      "unit": "count/year",
+      "source_files": [
+        "proposal.md",
+        "assumptions.json"
+      ],
+      "formula": "Distinct firms or merchants recorded as challenge owners, collaborators or trial partners.",
+      "confidence": "low",
+      "assumptions": [
+        "Calibrated after a real 90-day operating baseline."
+      ],
+      "reason": "No confirmed partner roster or operating baseline was supplied.",
+      "estimated_reference": "15-40 participating firms or merchants/year after stabilisation",
+      "estimate_basis": "Reference participation range for the three key-area pilots."
+    },
     "accountable_plugin_coverage_target": {
       "status": "known",
       "value": 1.0,

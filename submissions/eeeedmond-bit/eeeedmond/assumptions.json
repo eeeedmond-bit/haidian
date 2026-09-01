@@ -29,7 +29,13 @@
       "id": "A-COST-001",
       "status": "pending_professional_confirmation",
       "statement": "No bill of quantities, site connection survey, supplier quotations or operating contract was supplied.",
-      "impact": "The proposal defines cost packages and a three-quotation process but makes no investment claim. Cost confirmation begins only after a site and operator are selected."
+      "impact": "The proposal provides broad low-confidence capital, operating and cost-recovery ranges for scale comparison only. Cost confirmation begins after sites and operators are selected and requires a bill of quantities, three quotations and a life-cycle cost review."
+    },
+    {
+      "id": "A-IMPLEMENTATION-ESTIMATE-001",
+      "status": "low_confidence_reference_estimate",
+      "statement": "Implementation quantities, electrical loads, network capacity, programme, capital cost, operating cost and benefit ranges are inferred from the S/M/L/XL concept family and adaptive-reuse strategy rather than measured site data.",
+      "impact": "All ranges are non-statutory and non-contractual. They exclude land acquisition, major structural reinforcement, large utility expansion and specialist heritage restoration, and must be recalculated after survey and professional design."
     },
     {
       "id": "A-OPERATIONS-001",

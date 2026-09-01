@@ -602,6 +602,7 @@
       "required": true,
       "status": "complete",
       "proposal_sections": [
+        "更新项目清单、实施政策与分期计划",
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
         "重点区域详细设计",
@@ -627,7 +628,9 @@
         "building_footprint_area_sqm",
         "green_ratio",
         "public_space_ratio",
-        "key_area_count"
+        "key_area_count",
+        "first_round_capex_rmb",
+        "three_year_network_capex_rmb"
       ],
       "source_ids": [
         "SITE-PACKAGE",
@@ -639,7 +642,10 @@
         "KEY-AREA-SOURCE"
       ],
       "assumption_ids": [
-        "A-CONTROLS-001"
+        "A-CONTROLS-001",
+        "A-DELIVERY-001",
+        "A-COST-001",
+        "A-IMPLEMENTATION-ESTIMATE-001"
       ],
       "self_check_ids": [
         "BOUNDARY_TRUST",
@@ -656,6 +662,7 @@
       "required": true,
       "status": "complete",
       "proposal_sections": [
+        "更新项目清单、实施政策与分期计划",
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
         "重点区域详细设计",
@@ -681,7 +688,14 @@
         "building_footprint_area_sqm",
         "green_ratio",
         "public_space_ratio",
-        "key_area_count"
+        "key_area_count",
+        "first_round_capex_rmb",
+        "three_year_network_capex_rmb",
+        "mature_annual_opex_rmb",
+        "operating_cost_recovery_ratio",
+        "annual_demand_matches",
+        "annual_lightweight_validations",
+        "annual_participating_firms_merchants"
       ],
       "source_ids": [
         "SITE-PACKAGE",
@@ -693,7 +707,11 @@
         "KEY-AREA-SOURCE"
       ],
       "assumption_ids": [
-        "A-CONTROLS-001"
+        "A-CONTROLS-001",
+        "A-DELIVERY-001",
+        "A-COST-001",
+        "A-OPERATIONS-001",
+        "A-IMPLEMENTATION-ESTIMATE-001"
       ],
       "self_check_ids": [
         "BOUNDARY_TRUST",

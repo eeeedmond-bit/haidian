@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "89adb22b5fb1dc13e37d3611c7c432c4b863d3afe8bc2d3094062d662d73be5e"
+      "sha256": "42b268c43d64d3955126279af1175a0bba80eaf75779eaa5101f56536adaa30a"
     },
     {
       "path": "agent.json",
@@ -38,13 +38,13 @@
       "path": "metrics.json",
       "role": "metrics",
       "required": true,
-      "sha256": "fff0dcfcc3175426258e5fdee4b94fecbb2048fd2c1f5b2855e4880be794243d"
+      "sha256": "f3c277c430fe8f096fd251b9c5d85167c760faa8f46bbb7eb393e7eef1f064b6"
     },
     {
       "path": "assumptions.json",
       "role": "assumptions",
       "required": true,
-      "sha256": "febb75f6cc27510f5d05da5defe8f7f4a7be6b4a65026786a0486f471fbbcc9f"
+      "sha256": "a77b1eb319bff5192a9eae98ff7c3f74a0992772055eb17a0769495e2fe7408a"
     },
     {
       "path": "sources.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "32ef9222a7e9a5b8c062eb327caaa101c2145b8d099396252f54f37c327c1588"
+      "sha256": "9d52c9450823c600ab424617d85258900079fec5a8992fb32da2ecac9875b4e1"
     },
     {
       "path": "compliance_matrix.json",
@@ -74,14 +74,14 @@
       "path": "design_depth_matrix.json",
       "role": "design_depth_matrix",
       "required": true,
-      "sha256": "dc2c62f1d1ab8d673bec8b5dc34fbc1e1cacf4ed04038193dc92b142f26df021"
+      "sha256": "f513c7ea66ff6cb04091bde775ba18e89087fe91da086aa5cbd98150e748dce3"
     },
     {
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "827a46ce54f38aecaf2f0e54ea74a2ea19f5add9da7b77276a91dfb76af51108"
+      "sha256": "f8f8a97438f5082fdc54b095f23d70f7d0371b367e66148ebfdd240ae08107d8"
     },
     {
       "path": "report/narrative.md",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "43343e3867a1d70c1bf1889b1c892b06d4be4365f8c02b1c45b4c877f18548fb"
+      "sha256": "75dfd3c489813e218587fc33c7d18401cba41761579553650841a387e953d58d"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -314,7 +314,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "4ef3a1dca7373e06b46b1b4bb4a00ce59ae8504e8cbd2b99c4d0c39b73152a5d"
+      "sha256": "97c377325a8c3c872debe2f952c62e708587dba766e98e8f97b83c3890b4db1d"
     },
     {
       "path": "assets/figures/restack-open-interface.jpg",

@@ -157,7 +157,45 @@ The first round creates one independently reviewable pilot package in each key a
 
 Before opening, 100% of spaces and plug-ins must have named spatial, operational and technical owners. Every AI plug-in must have version, notice, human takeover, shutdown and restoration records. Basic public services must retain a human or non-AI route. Expansion is zero while a high-risk safety, privacy or rights issue remains unresolved. Demand response, repeat use, product improvement, merchant participation and annual attendance receive quantitative targets only after the pilot establishes a real baseline.
 
-Cost and procurement are managed in four packages: standard components, site connection, professional verification and annual operation. Platform bases, fixed AI cores and plug-ins are counted as standard units. Structure, power, network, fire, accessibility and restoration are itemised for each site. Qualified teams quote the required professional checks. Annual operation covers staff, maintenance, insurance, content and audit. No total investment is invented at concept stage. Once the site and operator are confirmed, a bill of quantities, at least three budget quotations and a life-cycle cost sheet must include both maintenance and removal.
+Cost and procurement are managed in four packages: standard components, site connection, professional verification and annual operation. Platform bases, fixed AI cores and plug-ins are counted as standard units. Structure, power, network, fire, accessibility and restoration are itemised for each site. Qualified teams quote the required professional checks. Annual operation covers staff, maintenance, insurance, content and audit. Because no bill of quantities, connection survey, supplier quotations or operating contract was supplied, all cost figures below are low-confidence concept-stage ranges used only to understand implementation scale. Once sites and operators are confirmed, a bill of quantities, at least three quotations and a life-cycle cost sheet must include maintenance and removal.
+
+### First-round Packages and Accountable Actors
+
+Implementation is led by the Centennial Jing-Zhang AI Innovation Belt Management Committee, which coordinates annual plans, departments, pilot approval, funding and performance review. Subdistrict and district departments coordinate public safety, heritage, planning and construction, market regulation and resident communication. Rights holders, parks and property managers confirm site rights, opening hours and facility conditions. The professional operator manages demand catalogues, booking, referrals, events, merchants and maintenance. The technical integrator owns the fixed AI core, cybersecurity, equipment, versioning and rollback. Qualified structural, fire, electrical, accessibility and heritage specialists sign off relevant checks. Firms, universities, merchants and residents participate as challenge owners, collaborators, users and feedback providers.
+
+| First-round package | Core spatial action | Lead and direct responsibility | First-round deliverable |
+|---|---|---|---|
+| Co-ordination platform and open-service directory | Register needs, capabilities, sites, accountable owners and exit status across all three areas | Committee lead; joint operator executes; district departments and subdistricts co-ordinate | One bilingual directory, opening rulebook, responsibility and version ledger |
+| Zhongzhiyuan parallel pilot | One L collaboration platform in a research ground floor or campus lobby, plus 2-4 S/M nodes at trackside and Yuequan Road interfaces | Committee and park/rights holder lead; property, research firms and technical team implement | Closed loop for joint challenge, interface integration, lightweight validation and professional referral |
+| AI Origin Community parallel pilot | One L project co-creation platform and 3-5 S/M nodes in street corners, courtyards or active ground floors | Committee and subdistrict lead; rights holder/property, operator, firms and community-service actors implement | Closed loop for open challenge, project support, talent-life service and public learning |
+| Dazhongsi parallel pilot | One L market-validation platform in a commercial atrium or existing ground floor, with an XL upgrade interface and 2-4 S/M nodes | Committee and commercial rights holder/operator lead; merchants, firms and technical team implement | Closed loop for product trial, merchant co-creation, enterprise procurement experience and customer feedback |
+| Heritage-corridor public interface | Orientation, rest, convenience and cross-connection nodes without covering railway remains | Committee co-ordinates; park management, heritage specialists, subdistrict and operator share responsibility | Continuous public interface, heritage interpretation, accessible service and node wayfinding |
+
+### Prototype Connection Conditions and Professional Review
+
+| Scale | Reference usable area | Estimated equipment load and network | Preferred interface | Mandatory before opening |
+|---|---:|---|---|---|
+| S | 20-80 sq m | 5-20 kW; 100 Mbps-1 Gbps | Trackside public space, corner or entrance | Bearing, electrical protection, accessibility, night lighting and heritage-interface review |
+| M | 80-300 sq m | 20-60 kW; at least 1 Gbps | Courtyard, campus lobby or ground floor | Structure, electrical, egress, network isolation, drainage and property-maintenance plan |
+| L | 300-1,000 sq m | 60-200 kW; 1-10 Gbps | Research building, shared space or commercial atrium | Separate metering, two-way egress, fire linkage, equipment-noise, data and personnel-safety review |
+| XL | 1,500-5,000 sq m | 150-500 kW; 10 Gbps-class backbone | Existing industrial or commercial building and public interface | Whole-building fire, structural and MEP capacity review, operating permit, insurance and emergency plan |
+
+These areas, loads and bandwidths are proposal-stage capacity estimates, not construction parameters. Nodes prioritise existing buildings and reversible, demountable components. Permanent foundations, major structural alteration, utility upgrades or heritage controls require separate survey, design and approval.
+
+### Programme, Investment and Cost-effectiveness Estimate
+
+| Period | Main task | Stage outcome |
+|---|---|---|
+| Months 0-3 | Collect demand, confirm site rights, select operator and inspect existing conditions | Three pilot briefs and closed risk lists |
+| Months 4-6 | Develop design, complete professional review, bill of quantities and procurement | Confirm installation conditions and obtain three quotations |
+| Months 7-9 | Fabricate components, connect sites, commission systems and train staff | Three parallel pilots ready for trial operation |
+| Months 10-12 | 90-day limited, staffed validation | Operating baseline, issue register and expansion decision |
+| Months 13-24 | Stable operation, compatible plug-ins and shared directory | Stable district services and traceable project referrals |
+| Months 25-36 | Expand mature nodes, upgrade XL venues and connect external resources | Initial cross-area open-service network |
+
+The three first-round parallel validation packages are estimated at **RMB 20-60 million** capital cost and **RMB 3-8 million** annual operation after opening. A three-year initial network of 12-18 S/M nodes, 3-5 L platforms and three XL venues in existing buildings is estimated at **RMB 100-300 million** cumulative capital cost and **RMB 15-40 million** annual operation at maturity. These low-confidence ranges exclude land acquisition, major structural reinforcement, large utility expansion and specialist heritage restoration.
+
+After stabilisation, direct revenue from enterprise services, venues, events and brand collaboration is estimated to recover **40%-70%** of annual operating cost, compared with **20%-40%** during the pilot period. The public-service and heritage-culture balance is shared through government service procurement, park and property operation, joint enterprise challenges and social collaboration. Annual benefit references are 20,000-50,000 visits, 30-80 matched needs, 10-30 lightweight validations or product improvements, and 15-40 participating firms or merchants. These figures are not promises of investment return, transaction or attraction. Formal performance targets are approved by the Committee after a real 90-day baseline exists.
 
 Priority projects include trackside public-service access, Zhongzhiyuan co-development interfaces, Origin Community project and daily support, Dazhongsi merchant collaboration and product experience, Xiaoyuehe public experience, contribution display, node maintenance and cross-area events. [data:geometry/phasing.geojson#PHASE-001]
 
