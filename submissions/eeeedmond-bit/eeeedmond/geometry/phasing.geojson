@@ -12,8 +12,10 @@
         "geometry_role": "design_proposal",
         "usage_note": "概念性机器复核图层，不是法定用地、道路、建筑或工程控制线。",
         "layer": "PHASE",
-        "phase": "phase_1",
-        "name_zh": "近期轻量接入试点"
+        "phase": "initial_pilot",
+        "implementation_round": "round_1_parallel",
+        "key_area": "zhongzhiyuan",
+        "name_zh": "众智园首轮并行试点"
       },
       "geometry": {
         "type": "Polygon",
@@ -105,8 +107,10 @@
         "geometry_role": "design_proposal",
         "usage_note": "概念性机器复核图层，不是法定用地、道路、建筑或工程控制线。",
         "layer": "PHASE",
-        "phase": "phase_2",
-        "name_zh": "中期稳定协作扩展"
+        "phase": "initial_pilot",
+        "implementation_round": "round_1_parallel",
+        "key_area": "ai_origin_community",
+        "name_zh": "AI原点社区首轮并行试点"
       },
       "geometry": {
         "type": "Polygon",
@@ -286,8 +290,10 @@
         "geometry_role": "design_proposal",
         "usage_note": "概念性机器复核图层，不是法定用地、道路、建筑或工程控制线。",
         "layer": "PHASE",
-        "phase": "phase_3",
-        "name_zh": "长期网络协同预留"
+        "phase": "initial_pilot",
+        "implementation_round": "round_1_parallel",
+        "key_area": "dazhongsi",
+        "name_zh": "大钟寺首轮并行试点"
       },
       "geometry": {
         "type": "Polygon",

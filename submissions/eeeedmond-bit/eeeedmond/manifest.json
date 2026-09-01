@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "d5184fa38e226496fc7e846226a200dc514072c7222e836b36b87da2eab9087f"
+      "sha256": "32ef9222a7e9a5b8c062eb327caaa101c2145b8d099396252f54f37c327c1588"
     },
     {
       "path": "compliance_matrix.json",
@@ -185,7 +185,7 @@
       "path": "geometry/phasing.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "c6b4ed47e60a1c21f07d5876523b19bd4c315b81e9f1e4d84428240acb22217b"
+      "sha256": "c8c6d9c11ea622f7c440a4716b1ef8859c37d5e1a52f152e00048288e8b88da9"
     },
     {
       "path": "geometry/public_space.geojson",
