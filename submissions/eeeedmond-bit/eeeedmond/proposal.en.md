@@ -142,6 +142,8 @@ Three landmark types form an updatable AI pilgrimage and honour-display system. 
 
 ## Project List, Implementation Policy and Phasing
 
+![First-round parallel pilots, four stage gates and accountable actors — concept-stage delivery framework](assets/figures/implementation-roadmap.en.png)
+
 The near term uses S/M lightweight nodes and existing ground-floor interfaces at locations with clear maintenance, power, network and demand. The medium term adds L co-development and lightweight validation where sustained projects exist. The long term embeds XL city-scale venues in commercial or industrial buildings and mature node clusters. Progress depends on demand, space, equipment and responsibility, not installation count.
 
 Government and subdistrict actors coordinate policy and public safety. Rights holders and property managers provide rooms, access and facilities. Firms, universities, merchants and residents submit real needs. Operators manage catalogues, booking, referrals and maintenance. Technical teams remain responsible for model and product results.

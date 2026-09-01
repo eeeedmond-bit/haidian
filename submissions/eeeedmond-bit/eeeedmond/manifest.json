@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "42b268c43d64d3955126279af1175a0bba80eaf75779eaa5101f56536adaa30a"
+      "sha256": "2ada70c34793d5a4f346976f4ed9e92af1eb1bc510bea92046f1ed3a1b5560c9"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "9d52c9450823c600ab424617d85258900079fec5a8992fb32da2ecac9875b4e1"
+      "sha256": "664f5882bb37a829154a0251454f0828a5a1b38e217bd54b667621eb5900cd63"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "f8f8a97438f5082fdc54b095f23d70f7d0371b367e66148ebfdd240ae08107d8"
+      "sha256": "bce9bf6156b007487514106fd8f20263c62c31dda05afda64327567119c595d4"
     },
     {
       "path": "report/narrative.md",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "75dfd3c489813e218587fc33c7d18401cba41761579553650841a387e953d58d"
+      "sha256": "949b41c20f56a8d6c51096f240cc4be07e038b4ee51aa65d4ecb217bd46251ad"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -314,7 +314,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "97c377325a8c3c872debe2f952c62e708587dba766e98e8f97b83c3890b4db1d"
+      "sha256": "497af7669502f59324e1d8bea8df97d1336693a45202ea483ec77d43d1a1bc0b"
     },
     {
       "path": "assets/figures/restack-open-interface.jpg",
@@ -499,6 +499,29 @@
       "description_zh": "以常态服务为底、四季主题活动穿插的建议性运营节律；非确定活动排期。",
       "description_en": "Indicative operating rhythm combining routine service with seasonal events; not a confirmed programme.",
       "sha256": "36db926696b48f0c9f508e1ba54503c3e48489d03209b6a1179feff91fea0602"
+    },
+    {
+      "path": "assets/figures/implementation-roadmap.png",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "首轮并行试点实施路线图",
+      "title_en": "First-Round Parallel Pilot Roadmap",
+      "description_zh": "统合三个并行试点包、四阶段门槛、责任主体及概念阶段投资参考的实施路线图。",
+      "description_en": "Delivery roadmap integrating three parallel pilot packages, four stage gates, accountable actors and concept-stage investment references.",
+      "sha256": "0165c3eb9327317b3d58921914bf226bce16579b0440d8b1583a740021543e2c"
+    },
+    {
+      "path": "assets/figures/implementation-roadmap.en.png",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/implementation-roadmap.png",
+      "title_zh": "首轮并行试点实施路线图",
+      "title_en": "First-Round Parallel Pilot Roadmap",
+      "description_zh": "统合三个并行试点包、四阶段门槛、责任主体及概念阶段投资参考的实施路线图。",
+      "description_en": "Delivery roadmap integrating three parallel pilot packages, four stage gates, accountable actors and concept-stage investment references.",
+      "sha256": "7ab89c8fed72efec170f6862dcbad8874e6826bac69946701a77887e457194b7"
     }
   ],
   "validation_claim": {

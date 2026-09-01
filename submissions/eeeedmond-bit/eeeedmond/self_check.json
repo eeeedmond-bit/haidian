@@ -18,6 +18,8 @@
       "changelog_files": [],
       "changed_files": [
         "submissions/eeeedmond-bit/eeeedmond/agent.json",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/implementation-roadmap.en.png",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/implementation-roadmap.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/key-areas.en.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/key-areas.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/land-use-structure.en.png",
@@ -81,7 +83,7 @@
       "ai_package_stages": {
         "submissions/eeeedmond-bit/eeeedmond": "formal"
       },
-      "total_bytes": 36735816,
+      "total_bytes": 37138327,
       "maintainer_bypass": false
     },
     "stderr": ""
