@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "2d539e33465eb602bafe4faea7e8413828392f03353e47cd00dc1d3640b216fc"
+      "sha256": "d5184fa38e226496fc7e846226a200dc514072c7222e836b36b87da2eab9087f"
     },
     {
       "path": "compliance_matrix.json",
@@ -243,7 +243,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/site-overview.png",
-      "sha256": "2576dbbfa9f6a3a8393c717d4214b3ffa60abf4b28c5d6d82551d4d4c93937b2"
+      "sha256": "1934ea3e44fb9b86f98ea015b7e90c1a6ab4159592b54df64ee46de1b372ddd6"
     },
     {
       "path": "assets/figures/land-use-structure.en.png",
@@ -251,7 +251,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/land-use-structure.png",
-      "sha256": "3ec21c8c874e4185a11593fe9f7704e1954e3d20975324c87d98390556cf1a36"
+      "sha256": "6129bf2164c13657dd2ffb41b2a0c1cf0c2f8b413b2dd79f19dd19626b5ca8e8"
     },
     {
       "path": "assets/figures/key-areas.en.png",
@@ -259,7 +259,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/key-areas.png",
-      "sha256": "420a5c0359276d15b8b72d406c78ff72fc2728b8962ff7f373438a08818b0010"
+      "sha256": "15a27a961afd288cb4359010765d5a9f293cc064dbd725a58749c0a516c7f1d4"
     },
     {
       "path": "assets/figures/mobility-bluegreen.en.png",
@@ -267,7 +267,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/mobility-bluegreen.png",
-      "sha256": "9011bcc5fdd09b6cfe4355b51e380d1638b52126bbfe06c306aa893eec9de942"
+      "sha256": "51cf17a2b974584cfe0d3aea9631baa9f2f2ca2d2af5a4f8a7793638c6189cb5"
     },
     {
       "path": "assets/figures/metrics-evidence.en.png",
@@ -275,7 +275,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/metrics-evidence.png",
-      "sha256": "96637c3de14daf3c6a0bab44bd3375dd680787dfd844ba47d3213318c08772b3"
+      "sha256": "8bb622509e71c96f9724a8b0bd3b88896e2feff27e13c889e2b12b52c0352643"
     },
     {
       "path": "assets/media/experience.mp4",
