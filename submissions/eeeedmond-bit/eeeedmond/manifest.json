@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "2ada70c34793d5a4f346976f4ed9e92af1eb1bc510bea92046f1ed3a1b5560c9"
+      "sha256": "364e0ac2bc83a6bee5e5294fd5927e61038296d97fc1a2a6f33eacc75788e94f"
     },
     {
       "path": "agent.json",
@@ -38,13 +38,13 @@
       "path": "metrics.json",
       "role": "metrics",
       "required": true,
-      "sha256": "f3c277c430fe8f096fd251b9c5d85167c760faa8f46bbb7eb393e7eef1f064b6"
+      "sha256": "82c3c2ccfee22b319bdadcd2d8f8824d716f39714b39eaff4737abfa09d3b52d"
     },
     {
       "path": "assumptions.json",
       "role": "assumptions",
       "required": true,
-      "sha256": "a77b1eb319bff5192a9eae98ff7c3f74a0992772055eb17a0769495e2fe7408a"
+      "sha256": "1eaf7a43c47bf13da9baeb96a7f86a0a99698b70ed5bc7b6574cf518d0227b6b"
     },
     {
       "path": "sources.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "664f5882bb37a829154a0251454f0828a5a1b38e217bd54b667621eb5900cd63"
+      "sha256": "cf32fa0325667f21c621f9a031af7a4942abce9636084895438d5c52a442f116"
     },
     {
       "path": "compliance_matrix.json",
@@ -74,14 +74,14 @@
       "path": "design_depth_matrix.json",
       "role": "design_depth_matrix",
       "required": true,
-      "sha256": "f513c7ea66ff6cb04091bde775ba18e89087fe91da086aa5cbd98150e748dce3"
+      "sha256": "c1dd529d3c52f8db094e94bc432730749a406b11acac280f04899a9146fc52ef"
     },
     {
       "path": "report/proposal.html",
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "bce9bf6156b007487514106fd8f20263c62c31dda05afda64327567119c595d4"
+      "sha256": "5debb2b40f6400a88481adf9f5e0653e78626ea239f3a575b5f571f3e66e7f8e"
     },
     {
       "path": "report/narrative.md",
@@ -100,14 +100,14 @@
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "4ef3d4585d5a7625f5280d9e7daa537133e71c6ed034509338e3ea3f9510b9d7"
+      "sha256": "9dfae5c02d460bdd5c970e1d6445ff2bbb70dd85c0d73d43408734c8e41eb54e"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "5e90bd18c7b96227a4c4b9c83ed573527ff58350cd9bc49a73cfe77500e072e5"
+      "sha256": "2de2335341a45d977cae14a4432d91a574d314e473f64913612b678334fa8bcc"
     },
     {
       "path": "visual/index.html",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "949b41c20f56a8d6c51096f240cc4be07e038b4ee51aa65d4ecb217bd46251ad"
+      "sha256": "aa01ff2a6540cf65574e38138363e76af823b26fb706eb1e6d40af729028c1c0"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "2009cde769581ba08775e42510f35aae95f74099c214b0807772652ca2ed0312"
+      "sha256": "9046fc93a9cb1bbacb7040517101f9124b0ebc10d3d3dc0d4e6a2f92a2cb15f3"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -227,7 +227,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "e33fb6c7c80264084bf68113ca3719d09bc74a3c1e445a1c49652a5c9160368a"
+      "sha256": "9266fbe437f06c9bce3240cf33f6dd8baf219ce680a07680429141fd89050f1e"
     },
     {
       "path": "visual/index.en.html",
@@ -314,7 +314,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "497af7669502f59324e1d8bea8df97d1336693a45202ea483ec77d43d1a1bc0b"
+      "sha256": "c9de6f82c8ccd7df827ff28ac4dea71f8f182a08d0165045e64bc52cfee76f19"
     },
     {
       "path": "assets/figures/restack-open-interface.jpg",
@@ -507,9 +507,9 @@
       "language": "zh",
       "title_zh": "首轮并行试点实施路线图",
       "title_en": "First-Round Parallel Pilot Roadmap",
-      "description_zh": "统合三个并行试点包、四阶段门槛、责任主体及概念阶段投资参考的实施路线图。",
-      "description_en": "Delivery roadmap integrating three parallel pilot packages, four stage gates, accountable actors and concept-stage investment references.",
-      "sha256": "0165c3eb9327317b3d58921914bf226bce16579b0440d8b1583a740021543e2c"
+      "description_zh": "统合三个并行试点包、四阶段门槛、五项准入检查与建议责任配置的实施路线图；所有责任与资金安排均待法定程序确认。",
+      "description_en": "Delivery roadmap integrating three parallel pilot packages, four stage gates, five readiness checks and proposed responsibility configurations; all responsibilities and funding arrangements require lawful confirmation.",
+      "sha256": "a8a71c499fd057983ff299e544ee6b2b08519bb57503f196c8352282ee1c4ea4"
     },
     {
       "path": "assets/figures/implementation-roadmap.en.png",
@@ -519,9 +519,32 @@
       "translation_of": "assets/figures/implementation-roadmap.png",
       "title_zh": "首轮并行试点实施路线图",
       "title_en": "First-Round Parallel Pilot Roadmap",
-      "description_zh": "统合三个并行试点包、四阶段门槛、责任主体及概念阶段投资参考的实施路线图。",
-      "description_en": "Delivery roadmap integrating three parallel pilot packages, four stage gates, accountable actors and concept-stage investment references.",
-      "sha256": "7ab89c8fed72efec170f6862dcbad8874e6826bac69946701a77887e457194b7"
+      "description_zh": "统合三个并行试点包、四阶段门槛、五项准入检查与建议责任配置的实施路线图；所有责任与资金安排均待法定程序确认。",
+      "description_en": "Delivery roadmap integrating three parallel pilot packages, four stage gates, five readiness checks and proposed responsibility configurations; all responsibilities and funding arrangements require lawful confirmation.",
+      "sha256": "9b242c9d0812feaffda19d01c3f35bf6c8c8e910ea5ae38d523dae0dc2a2f3b7"
+    },
+    {
+      "path": "assets/figures/restack-ai-lifecycle.png",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "title_zh": "AI 插件护照与生命周期",
+      "title_en": "AI Plug-in Passport and Lifecycle",
+      "description_zh": "以十项护照字段、五种运行状态和人工门槛构成可追踪、可回退、可退出的 AI 迭代闭环。",
+      "description_en": "A traceable, reversible AI iteration loop built from ten passport fields, five operating states and human decision gates.",
+      "sha256": "ffbb9ea23f0b3431158b885f698c43ea079f5e8a1686f8de8ab08bb231e9317e"
+    },
+    {
+      "path": "assets/figures/restack-ai-lifecycle.en.png",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/restack-ai-lifecycle.png",
+      "title_zh": "AI 插件护照与生命周期",
+      "title_en": "AI Plug-in Passport and Lifecycle",
+      "description_zh": "以十项护照字段、五种运行状态和人工门槛构成可追踪、可回退、可退出的 AI 迭代闭环。",
+      "description_en": "A traceable, reversible AI iteration loop built from ten passport fields, five operating states and human decision gates.",
+      "sha256": "04904beae2064ce2520e5c2668345f632f2bb075065a1ed1f96960f846d6d08f"
     }
   ],
   "validation_claim": {

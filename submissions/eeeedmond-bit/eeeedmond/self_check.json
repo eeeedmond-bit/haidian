@@ -28,6 +28,8 @@
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/metrics-evidence.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/mobility-bluegreen.en.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/mobility-bluegreen.png",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-ai-lifecycle.en.png",
+        "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-ai-lifecycle.png",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-annual-operations.en.jpg",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-annual-operations.jpg",
         "submissions/eeeedmond-bit/eeeedmond/assets/figures/restack-brand-system.en.jpg",
@@ -83,7 +85,7 @@
       "ai_package_stages": {
         "submissions/eeeedmond-bit/eeeedmond": "formal"
       },
-      "total_bytes": 37138327,
+      "total_bytes": 39618835,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -161,7 +163,7 @@
       "summary": {
         "standard_matrix_items": 6,
         "design_depth_items": 15,
-        "known_metric_refs_required": 14,
+        "known_metric_refs_required": 19,
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {

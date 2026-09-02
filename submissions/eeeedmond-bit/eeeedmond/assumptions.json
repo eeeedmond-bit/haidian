@@ -26,6 +26,12 @@
       "impact": "No pilot may open until all accountable roles are named and the four-stage entry gate in the proposal is documented. This is a future trigger, not evidence of current implementation."
     },
     {
+      "id": "A-GOVERNANCE-001",
+      "status": "pending_statutory_authorisation",
+      "statement": "The proposal's coordinating entity and responsibility tables are a recommended concept-stage governance model. No management committee, public authority, approval route, procurement route or performance owner is claimed to have been established or authorised.",
+      "impact": "All real institutions, duties, approvals, procurement and performance procedures must be confirmed through statutory authority and executed agreements before a pilot can change from HOLD to PASS."
+    },
+    {
       "id": "A-COST-001",
       "status": "pending_professional_confirmation",
       "statement": "No bill of quantities, site connection survey, supplier quotations or operating contract was supplied.",

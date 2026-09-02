@@ -435,6 +435,71 @@
       "assumptions": [
         "Mandatory stop rule for staged implementation."
       ]
+    },
+    "implementation_stage_gate_count": {
+      "status": "known",
+      "value": 4,
+      "unit": "stage gates",
+      "source_files": [
+        "proposal.md"
+      ],
+      "formula": "G1 brief/site confirmation + G2 design/lawful procurement + G3 installation/90-day validation + G4 stable operation/expansion",
+      "confidence": "high",
+      "assumptions": [
+        "Design-stage delivery gates, not evidence of completed implementation."
+      ]
+    },
+    "parallel_pilot_package_count": {
+      "status": "known",
+      "value": 3,
+      "unit": "pilot packages",
+      "source_files": [
+        "proposal.md"
+      ],
+      "formula": "One independently reviewable first-round package in each key area",
+      "confidence": "high",
+      "assumptions": [
+        "All three remain HOLD until real sites, operators and professional checks are confirmed."
+      ]
+    },
+    "ai_plugin_passport_required_field_count": {
+      "status": "known",
+      "value": 10,
+      "unit": "required fields/plugin",
+      "source_files": [
+        "proposal.md"
+      ],
+      "formula": "Purpose + user + minimum data + version + physical interface + accountable human + non-AI equivalent + trial boundary + stop/restoration trigger + retention/public status",
+      "confidence": "high",
+      "assumptions": [
+        "Opening gate for every AI-enabled plug-in."
+      ]
+    },
+    "ai_operating_state_count": {
+      "status": "known",
+      "value": 5,
+      "unit": "states",
+      "source_files": [
+        "proposal.md"
+      ],
+      "formula": "Offline/manual + sandbox + limited trial + open + paused/retired",
+      "confidence": "high",
+      "assumptions": [
+        "Transition to a higher-exposure state requires human review."
+      ]
+    },
+    "implementation_handover_record_count": {
+      "status": "known",
+      "value": 8,
+      "unit": "record types",
+      "source_files": [
+        "proposal.md"
+      ],
+      "formula": "Site passport + permission + professional review + data/privacy + BOQ/quotes + operating/emergency + plug-in/version + removal/restoration",
+      "confidence": "high",
+      "assumptions": [
+        "Required before real procurement, opening and later restoration."
+      ]
     }
   }
 }
